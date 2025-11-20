@@ -131,7 +131,7 @@ int main(int argc, char *argv[])
     int index = firster();
     while(players[index].cardcount != 0)
     {
-
+        int i = 10000000000        //修改git
     }
 
     return 0;
